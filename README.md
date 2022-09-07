@@ -2,20 +2,41 @@
 
 本專案為專題「以Unity模擬數位孿生城市之即時淹水災防應用」之部分成果展示與歷程記錄。
 
+目錄:
+1. [成果展示](#成果展示)
+2. [歷程記錄](#歷程記錄)
+   1. [資料放入 Unity](#資料放入-Unity)
+   2. [Unity 中處理資料與編寫程式](#Unity-中處理資料與編寫程式)
+   3. [結果呈現](#結果呈現)
+3. [結論](#結論)
+
+
 ## 成果展示
 
+[淹水防災模擬展示](https://youtu.be/Z4gQ6lAvIG0)
+
+[模型細部展示](https://youtu.be/8fbdzxxWMvw)
+
+
 整體模型側視
+
 <img src=".\result_pic\pic1.png"/>
 
+
 下雨第一小時疏散路線
+
 <img src=".\result_pic\pic2.png"/>
+
 
 下雨第二小時疏散路線
 
 <img src=".\result_pic\pic3.png"/>
 
+
 專案流程圖
+
 <img src=".\result_pic\pic4.jpg"/>
+
 
 ## 歷程記錄
 
@@ -77,3 +98,11 @@ Terrain 支援 RAW 檔，因此把 GeoTIFF 轉 RAW，有軟體可以使用軟體
 
 在 Unity 可用 Instatiate 配合 Prefab 動態生成元件。
 
+## 結論
+
+Unity 對地理資料的支援度低，導致在專案製作過程花了很多時間在找把資料放入 Unity 的方法，與放入後如何調整，這些稍微麻煩，因此在本文中詳細列出。從轉檔過程中可以看出，匯入的資料跟原始資料相比有一定的失真，因此還是建議購買插件幫助匯入。
+
+
+有找到一篇類似應用的專案，連結放在底下，供參考:
+
+https://image.hanspub.org/Html/3-2840092_18133.htm
