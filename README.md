@@ -93,7 +93,7 @@ Terrain 支援 RAW 檔，因此把 GeoTIFF 轉 RAW，有軟體可以使用軟體
 1. 確定道路資料的屬性要在地理資訊軟體過濾，還是要在程式中過濾。(屬性像是單行道、人行道等)
 2. 特殊的屬性是否要特別處理。(單行道只能單向通行)
 
-參考: [讀取 GeoJson 並解析成圖，找出最短路徑](https://github.com/weermark/GeoJsonToGraph)
+參考: [讀取 GeoJSON 並解析成圖，找出最短路徑](https://github.com/weermark/GeoJsonToGraph)
 
 ### 結果呈現
 
