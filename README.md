@@ -20,22 +20,22 @@
 
 整體模型側視
 
-<img src=".\result_pic\pic1.png"/>
+![整體模型側視](.\result_pic\pic1.png)
 
 
 下雨第一小時疏散路線
 
-<img src=".\result_pic\pic2.png"/>
+![疏散路線第一小時](.\result_pic\pic2.png)
 
 
 下雨第二小時疏散路線
 
-<img src=".\result_pic\pic3.png"/>
+![疏散路線第二小時](.\result_pic\pic3.png)
 
 
 專案流程圖
 
-<img src=".\result_pic\pic4.jpg"/>
+![流程圖](.\result_pic\pic4.jpg)
 
 
 ## 歷程記錄
